@@ -1,0 +1,3 @@
+function goodBye(){
+  return 'bybfadfsdafsadfasdf'
+}
